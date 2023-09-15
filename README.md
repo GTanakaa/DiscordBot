@@ -1,2 +1,2 @@
-# DiscordBot
-Projeto de Bot de m;usica para o app Discord
+# DJ Lee
+Projeto de Bot de música para o app Discord, com tema de um personagem que gosto.
